@@ -4,9 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "jest",
     "build":"echo build succesful"
   },
+=======
+  "test": "jest",
+  "build": "echo Build successful"
+},
+>>>>>>> dd05909 (Add GitHub Actions CI workflow)
   "keywords": [],
   "author": "",
   "license": "ISC",

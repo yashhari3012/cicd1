@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hello GitHub.
 i am yash 
+=======
+"scripts": {
+  "test": "jest",
+  "build": "echo Build successful"
+}
+>>>>>>> dd05909 (Add GitHub Actions CI workflow)
